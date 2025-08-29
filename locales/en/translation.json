@@ -1,0 +1,655 @@
+{
+  "header": {
+    "nav": {
+      "howItWorks": "How It Works",
+      "caseStudies": "Case Studies", 
+      "pricing": "Pricing",
+      "faq": "FAQ"
+    },
+    "phone": "+58 (422) 175-1215",
+    "requestDemo": "Request Demo"
+  },
+  "hero": {
+    "title": "We Co-create Custom Software",
+    "titleHighlight": "under subscription.",
+    "subtitle": "We develop the exact solution your business needs, with the benefit of a monthly subscription. Includes maintenance, support, and continuous evolution.",
+    "benefits": [
+      "No large USD investments - Convert CAPEX into predictable OPEX",
+      "100% customized - Software designed specifically for your needs", 
+      "Guaranteed evolution - Maintenance, updates and improvements included"
+    ],
+    "cta": {
+      "primary": "🚀 Request your free diagnosis",
+      "secondary": "📅 Schedule a demo"
+    },
+    "stats": {
+      "companies": "companies trust us",
+      "retention": "retention",
+      "uptime": "uptime"
+    },
+    "formTitle": "Discover How Much You Can Save",
+    "formSubtitle": "Free analysis valued at $5,000",
+    "form": {
+      "email": "Corporate Email",
+      "name": "Full Name", 
+      "company": "Company",
+      "employees": "Number of employees",
+      "message": "I want to create..",
+      "messagePlaceholder": "Briefly describe the application or process you want to automate...",
+      "messageHint": "💡 Application or process I want to automate",
+      "submit": "Get Free Savings Analysis",
+      "validation": {
+        "emailInvalid": "Please enter a valid email address.",
+        "selectFile": "Please select a file to upload.",
+        "fieldEmpty": "cannot be empty.",
+        "fieldNull": "cannot be null."
+      }
+    }
+  },
+  "problemSolution": {
+    "title": "Does Your Company Face These Challenges?",
+    "problems": [
+      {
+        "emoji": "❌",
+        "title": "You paid a fortune for software that became obsolete",
+        "description": "Investment of $50K+ that doesn't adapt to your real processes and needs costly constant modifications."
+      },
+      {
+        "emoji": "⏳", 
+        "title": "Your team wastes hours on repetitive tasks",
+        "description": "Without intelligent automation, your employees dedicate valuable time to manual processes that could be automated."
+      },
+      {
+        "emoji": "🔄",
+        "title": "You adapt to the software, instead of it adapting to you",
+        "description": "You change successful processes to fit generic tools, losing efficiency and competitive advantage."
+      },
+      {
+        "emoji": "💸",
+        "title": "Every change costs you a fortune",
+        "description": "Simple modifications become months-long projects with unpredictable costs that destroy your budget."
+      }
+    ],
+    "solution": {
+      "preTitle": "There's a Better Way...",
+      "title": "Custom Software under",
+      "titleHighlight": "Subscription",
+      "steps": [
+        {
+          "number": "1",
+          "title": "We Develop",
+          "description": "your 100% customized software"
+        },
+        {
+          "number": "2",
+          "title": "You Pay Subscription", 
+          "description": "instead of large initial investment"
+        },
+        {
+          "number": "3",
+          "title": "We Include Everything",
+          "description": "maintenance, support and updates"
+        },
+        {
+          "number": "4",
+          "title": "It Evolves With You",
+          "description": "constantly with your business"
+        }
+      ],
+      "cta": "View Process Demo"
+    }
+  },
+  "valueProposition": {
+    "title": "Why Choose Our Hybrid Model",
+    "subtitle": "We compare our innovative approach with traditional alternatives",
+    "table": {
+      "headers": {
+        "aspect": "Aspect",
+        "traditional": "Traditional SaaS",
+        "custom": "Custom Development",
+        "ourModel": "Our Model"
+      },
+      "rows": [
+        {
+          "aspect": "Customization",
+          "traditional": "Limited",
+          "custom": "Total",
+          "ourModel": "Total"
+        },
+        {
+          "aspect": "Initial Investment",
+          "traditional": "Low",
+          "custom": "Very High",
+          "ourModel": "Low"
+        },
+        {
+          "aspect": "Predictable Costs",
+          "traditional": "Yes",
+          "custom": "No",
+          "ourModel": "Yes"
+        },
+        {
+          "aspect": "Technical Risk",
+          "traditional": "Provider",
+          "custom": "Client",
+          "ourModel": "Provider"
+        },
+        {
+          "aspect": "Continuous Evolution",
+          "traditional": "Limited",
+          "custom": "Expensive",
+          "ourModel": "Included"
+        },
+        {
+          "aspect": "Guaranteed Support",
+          "traditional": "Basic",
+          "custom": "Separate",
+          "ourModel": "Premium"
+        }
+      ]
+    },
+    "cards": [
+      {
+        "title": "Continuous Innovation",
+        "description": "Your software stays updated with the latest technologies and best practices, at no additional cost."
+      },
+      {
+        "title": "Complete Peace of Mind",
+        "description": "We take full technical responsibility. If something breaks, we fix it at no extra cost."
+      },
+      {
+        "title": "Guaranteed Scalability",
+        "description": "Your software grows with you. We add features as your needs evolve."
+      },
+      {
+        "title": "Proven ROI",
+        "description": "Our clients see return on investment 40% faster on average than with traditional development."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "How Our Simple 4-Step Process Works",
+    "subtitle": "From idea to functioning software that adds value every day",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Free Diagnosis",
+        "subtitle": "We Understand Your Business",
+        "features": [
+          "Detailed analysis of your current processes",
+          "Identification of optimization opportunities",
+          "Definition of specific requirements",
+          "Personalized technical and financial proposal"
+        ],
+        "duration": "Duration: 1-2 weeks"
+      },
+      {
+        "number": 2,
+        "title": "Agile AI Development",
+        "subtitle": "We Create Your Solution",
+        "features": [
+          "100% development adapted to your needs",
+          "Secure, scalable and modern architecture",
+          "Exhaustive testing and validation",
+          "Training for your team"
+        ],
+        "duration": "Duration: 1-3 months",
+        "note": "(depending on complexity)"
+      },
+      {
+        "number": 3,
+        "title": "Quick Launch",
+        "subtitle": "We Get Everything Running",
+        "features": [
+          "Existing data migration",
+          "Infrastructure configuration",
+          "Production deployment",
+          "Intensive support during transition"
+        ],
+        "duration": "Duration: 1-2 weeks"
+      },
+      {
+        "number": 4,
+        "title": "Continuous Evolution",
+        "subtitle": "It Never Stops Improving",
+        "features": [
+          "24/7 proactive monitoring",
+          "Regular security updates",
+          "New features based on needs",
+          "Premium technical support included"
+        ],
+        "duration": "Duration: Continuous",
+        "note": "during subscription"
+      }
+    ],
+    "cta": {
+      "button": "View Process Demo",
+      "subtitle": "Schedule a 30-minute call to see how our model works"
+    }
+  },
+  "caseStudies": {
+    "title": "Companies That Have Already Transformed Their Operations",
+    "subtitle": "Discover how our clients have optimized their processes and increased their profitability",
+    "cases": [
+      {
+        "icon": "🏥",
+        "company": "San Rafael Clinic",
+        "result": "60% Less Management Time",
+        "quote": "We needed a system that adapted exactly to our specific medical protocols. With the subscription model, we could access hospital-level software without the initial $200K+ investment.",
+        "author": "Dr. Maria Gonzalez",
+        "position": "Medical Director",
+        "metrics": [
+          "60% time reduction",
+          "40% satisfaction improvement",
+          "180% ROI first year",
+          "100% compliance"
+        ]
+      },
+      {
+        "icon": "🚛",
+        "company": "LogiTrans",
+        "result": "Personalized Route Optimization",
+        "quote": "Standard logistics software didn't understand our specific special transport restrictions. Now we have a solution that perfectly adapts to our unique processes.",
+        "author": "Carlos Mendoza",
+        "position": "Operations Director",
+        "metrics": [
+          "35% less fuel",
+          "50% better punctuality",
+          "25% more capacity",
+          "Perfect integration"
+        ]
+      },
+      {
+        "icon": "⚖️",
+        "company": "Legal & Associates",
+        "result": "Specialized Case Management",
+        "quote": "Each area of law has its particularities. We needed software that understood our specific corporate law workflows.",
+        "author": "Attorney Ana Rodriguez",
+        "position": "Founding Partner",
+        "metrics": [
+          "45% less prep time",
+          "30% more billing",
+          "100% compliance",
+          "Better collaboration"
+        ]
+      }
+    ],
+    "stats": {
+      "title": "Numbers That Speak for Themselves",
+      "metrics": [
+        {
+          "value": "15+",
+          "label": "Transformed companies"
+        },
+        {
+          "value": "95%",
+          "label": "Client retention"
+        },
+        {
+          "value": "$250K+",
+          "label": "Saved by clients"
+        },
+        {
+          "value": "99.9%",
+          "label": "Average uptime"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "The subscription model allowed us to access first-level technology without compromising our cash flow.",
+          "author": "CEO, Manufacturing Company"
+        },
+        {
+          "quote": "The best part is that the software evolves with us. Every quarter we see improvements that really impact our business.",
+          "author": "CTO, Financial Services Company"
+        }
+      ]
+    },
+    "cta": "View More Success Stories"
+  },
+  "whyKyndra": {
+    "title": "Why Choose Kyndra",
+    "subtitle": "The perfect combination of advanced technology and personalized service",
+    "reasons": [
+      {
+        "icon": "🎯",
+        "title": "Total Customization",
+        "description": "Every line of code designed specifically for your unique processes."
+      },
+      {
+        "icon": "🤖",
+        "title": "Built-in AI",
+        "description": "Intelligent automation and predictions from day one."
+      },
+      {
+        "icon": "🔒",
+        "title": "Risk-Free Model",
+        "description": "We assume the technical risk. If something breaks, we fix it."
+      },
+      {
+        "icon": "⚡",
+        "title": "24/7 Premium Support",
+        "description": "Dedicated technical team available when you need them."
+      }
+    ],
+    "stats": [
+      {
+        "value": "30%",
+        "label": "savings in operational costs",
+        "color": "primary"
+      },
+      {
+        "value": "70%",
+        "label": "fewer human errors",
+        "color": "success"
+      },
+      {
+        "value": "4",
+        "label": "weeks for new features",
+        "color": "accent"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Transparent and Predictable Investment",
+    "subtitle": "Hybrid model that eliminates financial barriers to custom development",
+    "hybrid": {
+      "title": "💰 Hybrid Model: Initial Payment + Subscription",
+      "initialPayment": {
+        "title": "Initial Payment",
+        "subtitle": "30-40% of Total Development Cost",
+        "features": [
+          "Finances custom initial development",
+          "Significantly reduces entry barrier",
+          "Amortized in the first 12-18 months"
+        ],
+        "example": "Example: For $50K project, $15K initial payment"
+      },
+      "subscription": {
+        "title": "Monthly Subscription",
+        "subtitle": "Includes Everything You Need",
+        "features": [
+          "Premium hosting and infrastructure",
+          "Corrective maintenance (bug fixes)",
+          "Automatic security updates",
+          "Priority technical support",
+          "Quarterly improvements and new features",
+          "Automated daily backups",
+          "24/7 proactive monitoring"
+        ]
+      }
+    },
+    "tiers": [
+      {
+        "name": "Basic Projects",
+        "description": "Ideal for companies with 20-100 employees",
+        "icon": "Users",
+        "initialCost": "$15K - $30K",
+        "monthlyCost": "$2K - $4K",
+        "popular": false
+      },
+      {
+        "name": "Intermediate Projects",
+        "description": "Ideal for companies with 100-300 employees",
+        "icon": "TrendingUp",
+        "initialCost": "$30K - $80K",
+        "monthlyCost": "$4K - $8K",
+        "popular": true,
+        "badge": "Most Popular"
+      },
+      {
+        "name": "Advanced Projects",
+        "description": "Ideal for companies with 300+ employees",
+        "icon": "Shield",
+        "initialCost": "$80K - $200K",
+        "monthlyCost": "$8K - $15K",
+        "popular": false
+      }
+    ],
+    "comparison": {
+      "traditional": {
+        "title": "vs. Traditional Development",
+        "points": [
+          "Initial savings: 60-70% less initial investment",
+          "3-year total cost: Similar, but with continuous added value",
+          "Risk: Transferred to provider"
+        ]
+      },
+      "saas": {
+        "title": "vs. Traditional SaaS",
+        "points": [
+          "Customization: 100% vs. limited",
+          "Monthly cost: 2-3x more, but 5-10x greater value",
+          "Adaptation: Software adapts to you, not the other way around"
+        ]
+      }
+    },
+    "guarantees": {
+      "title": "Included Guarantees",
+      "items": [
+        {
+          "icon": "Shield",
+          "title": "Satisfaction Guarantee",
+          "description": "90 days to fully evaluate"
+        },
+        {
+          "icon": "Clock",
+          "title": "Availability Guarantee",
+          "description": "99.9% uptime or automatic credits"
+        },
+        {
+          "icon": "Users",
+          "title": "Support Guarantee",
+          "description": "<4h response during business hours"
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Evolution Guarantee",
+          "description": "Minimum 2 significant improvements per year"
+        }
+      ]
+    },
+    "cta": {
+      "button": "Request Custom Quote",
+      "subtitle": "Each project is unique. Get a specific proposal for your needs in 48 hours.",
+      "tierButton": "Request Quote"
+    },
+    "labels": {
+      "initialPayment": "Initial payment",
+      "monthlyPayment": "Per month"
+    }
+  },
+  "faq": {
+    "title": "We Solve Your Most Common Questions",
+    "subtitle": "Everything you need to know about our custom software subscription model",
+    "questions": [
+      {
+        "question": "What happens if I want to cancel the subscription?",
+        "answer": "We understand that needs change. We offer contracts with minimum periods of 12-24 months to ensure you recover your initial investment. After this period, you can cancel with 60 days notice. We also offer source code transfer options."
+      },
+      {
+        "question": "Who owns the developed software?",
+        "answer": "We use a shared ownership model. You have exclusive rights over your specific implementation and data, while we maintain rights over the base architecture and reusable components. This allows us to offer you better pricing and continuous evolution."
+      },
+      {
+        "question": "How do you guarantee the software will evolve according to my needs?",
+        "answer": "We include in each subscription a minimum of 2 significant improvements per year, based on your feedback and usage analysis. Additionally, you have direct access to our product team to request specific features."
+      },
+      {
+        "question": "How long does it take to develop the initial software?",
+        "answer": "It depends on complexity, but typically between 2-4 months. Simple projects can be ready in 6-8 weeks, while complex systems may take up to 6 months. We provide a detailed timeline after the initial analysis."
+      },
+      {
+        "question": "What technologies do you use?",
+        "answer": "We select the most appropriate technologies for each project, prioritizing stability, scalability, and ease of maintenance. We typically use modern technologies like React, Node.js, Python, PostgreSQL, AWS/Azure, but we always adapt the stack to your specific needs."
+      },
+      {
+        "question": "Can you integrate with our existing systems?",
+        "answer": "Absolutely. Integration with existing systems is one of our specialties. We work with APIs, legacy databases, ERP systems, CRM, and any tools you already use. Part of the initial analysis includes mapping all necessary integrations."
+      },
+      {
+        "question": "What level of support does the subscription include?",
+        "answer": "It includes priority technical support during business hours (9am-6pm), with guaranteed response in less than 4 hours. For critical emergencies, we offer 24/7 support. It also includes automatic updates, backups, and proactive monitoring."
+      },
+      {
+        "question": "What if I need urgent changes?",
+        "answer": "For minor changes and fixes, we include them at no additional cost. For new features or major changes, we evaluate whether they can be included in scheduled improvements or require additional development. We always prioritize critical business needs."
+      },
+      {
+        "question": "How do you guarantee the security of our data?",
+        "answer": "We implement security best practices: encryption in transit and at rest, multi-factor authentication, regular audits, automatic backups, and compliance with standards like ISO 27001. We can adapt to specific requirements for your sector."
+      }
+    ],
+    "cta": {
+      "button": "Have Other Questions? Let's Talk",
+      "subtitle": "Schedule a 15-minute call to resolve any specific questions about your project"
+    }
+  },
+  "cta": {
+    "title": "Don't wait for your competition to get ahead",
+    "subtitle": "Start today with software that grows with you, month by month.",
+    "offer": {
+      "badge": "LIMITED OFFER",
+      "title": "Free Process Analysis",
+      "description": "Valued at $5,000 - Completely free for the first 10 companies requesting consultation this month.",
+      "includes": "What's included:",
+      "features": [
+        "Complete analysis of current processes",
+        "Opportunity identification",
+        "Personalized technical proposal",
+        "Specific ROI estimation",
+        "Implementation roadmap"
+      ],
+      "urgency": "Only 3 spaces available this month"
+    },
+    "primaryButton": "🚀 Start now with your free diagnosis",
+    "guarantee": "No commitment. If after the analysis you decide it's not for you, there's no cost or obligation.",
+    "contact": {
+      "title": "Prefer direct contact?",
+      "phone": "Direct call:",
+      "phoneNumber": "+57 (318) 817-0876",
+      "email": "Email:",
+      "emailAddress": "hello@kyndra.com",
+      "chat": "Live chat:",
+      "chatAvailability": "Available 9am-6pm"
+    }
+  },
+  "footer": {
+    "description": "Custom software that evolves with you",
+    "office": {
+      "title": "📍 Main Office",
+      "address": "Kr 55 #153-15, Floor 9\nBogotá, Colombia 111156"
+    },
+    "phones": {
+      "colombia": "+57 (318) 817-0876",
+      "venezuela": "+58 (422) 175-1215"
+    },
+    "email": "contacto@kyndra.com",
+    "sections": {
+      "company": {
+        "title": "Company",
+        "links": [
+          "About Us",
+          "Team",
+          "Careers",
+          "Partners"
+        ]
+      },
+      "services": {
+        "title": "Services",
+        "links": [
+          "Custom Development",
+          "Consulting",
+          "Technical Support",
+          "System Integration"
+        ]
+      },
+      "resources": {
+        "title": "Resources",
+        "links": [
+          "Blog",
+          "Case Studies",
+          "Whitepapers",
+          "Webinars"
+        ]
+      }
+    },
+    "legal": {
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "cookies": "Cookies"
+    },
+    "socialMedia": {
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter", 
+      "youtube": "YouTube",
+      "github": "GitHub"
+    },
+    "certifications": {
+      "iso": "ISO 27001",
+      "aws": "AWS Partner"
+    },
+    "copyright": "© 2025 Kyndra. All rights reserved."
+  },
+  "whatsapp": {
+    "message": "Hello! I'm interested in learning more about your custom software development services.",
+    "tooltip": "Chat with us"
+  },
+  "successBanner": {
+    "title": "Excellent! Your request was sent successfully",
+    "subtitle": "We have received your information and our team is reviewing it",
+    "offer": {
+      "title": "Your free analysis valued at $5,000 USD",
+      "description": "Our team of experts is preparing a personalized evaluation of your current situation and the specific savings opportunities for your company."
+    },
+    "nextSteps": {
+      "title": "Next steps:",
+      "step1": {
+        "time": "Today:",
+        "description": "Initial review of your information"
+      },
+      "step2": {
+        "time": "24-48 hours:",
+        "description": "We will contact you to schedule a meeting"
+      },
+      "step3": {
+        "time": "1 week:",
+        "description": "Presentation of your personalized proposal"
+      }
+    },
+    "expectations": {
+      "title": "What can you expect?",
+      "item1": "Detailed cost vs. savings analysis",
+      "item2": "100% customized software proposal",
+      "item3": "Subscription model with no initial investment",
+      "item4": "Specific implementation roadmap"
+    },
+    "urgency": {
+      "reminder": "Remember:",
+      "message": "Only 3 spots available for this month"
+    },
+    "contact": {
+      "question": "Do you have any urgent questions?",
+      "message": "Contact us directly through WhatsApp while we prepare your proposal"
+    }
+  },
+  "pages": {
+    "notFound": {
+      "title": "Page not found",
+      "description": "The page you're looking for doesn't exist.",
+      "button": "Back to home"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "lastUpdated": "Last updated: "
+    },
+    "terms": {
+      "title": "Terms of Service", 
+      "lastUpdated": "Last updated: "
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "lastUpdated": "Last updated: "
+    }
+  }
+}

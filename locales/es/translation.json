@@ -1,0 +1,655 @@
+{
+  "header": {
+    "nav": {
+      "howItWorks": "Cómo Funciona",
+      "caseStudies": "Casos de Éxito", 
+      "pricing": "Precios",
+      "faq": "FAQ"
+    },
+    "phone": "+58 (422) 175-1215",
+    "requestDemo": "Solicitar Demo"
+  },
+  "hero": {
+    "title": "Co-creamos Software Personalizado",
+    "titleHighlight": "bajo subscripción.",
+    "subtitle": "Desarrollamos la solución exacta que tu negocio necesita, con el beneficio de una suscripción mensual. Incluye mantenimiento, soporte y evolución continua.",
+    "benefits": [
+      "Sin grandes inversiones de USD - Convierte CAPEX en OPEX predecible",
+      "100% personalizado - Software diseñado específicamente para tus necesidades", 
+      "Evolución garantizada - Mantenimiento, actualizaciones y mejoras incluidas"
+    ],
+    "cta": {
+      "primary": "🚀 Solicita tu diagnóstico gratuito",
+      "secondary": "📅 Agenda una demo"
+    },
+    "stats": {
+      "companies": "empresas confían en nosotros",
+      "retention": "de retención",
+      "uptime": "uptime"
+    },
+    "formTitle": "Descubre Cuánto Puedes Ahorrar",
+    "formSubtitle": "Análisis gratuito valorado en $5,000",
+    "form": {
+      "email": "Email Corporativo",
+      "name": "Nombres y Apellidos", 
+      "company": "Empresa",
+      "employees": "Cantidad de empleados",
+      "message": "Quiero crear..",
+      "messagePlaceholder": "Describe brevemente la aplicación o proceso que quieres automatizar...",
+      "messageHint": "💡 Aplicación o proceso que quiero automatizar",
+      "submit": "Consultar Ahorro Gratuito",
+      "validation": {
+        "emailInvalid": "Introduzca una dirección de correo electrónico válida.",
+        "selectFile": "Seleccione un archivo para cargar.",
+        "fieldEmpty": "no puede estar vacío.",
+        "fieldNull": "no puede ser nulo."
+      }
+    }
+  },
+  "problemSolution": {
+    "title": "¿Tu Empresa Enfrenta Estos Desafíos?",
+    "problems": [
+      {
+        "emoji": "❌",
+        "title": "Pagaste una fortuna por un software que quedó obsoleto",
+        "description": "Inversión de $50K+ que no se adapta a tus procesos reales y necesita costosas modificaciones constantes."
+      },
+      {
+        "emoji": "⏳", 
+        "title": "Tu equipo pierde horas en tareas repetitivas",
+        "description": "Sin automatización inteligente, tus empleados dedican tiempo valioso a procesos manuales que podrían automatizarse."
+      },
+      {
+        "emoji": "🔄",
+        "title": "Te adaptas al software, en lugar de que él se adapte a ti",
+        "description": "Cambias procesos exitosos para encajar en herramientas genéricas, perdiendo eficiencia y ventaja competitiva."
+      },
+      {
+        "emoji": "💸",
+        "title": "Cada cambio te cuesta una fortuna",
+        "description": "Modificaciones simples se convierten en proyectos de meses con costos impredecibles que destruyen tu presupuesto."
+      }
+    ],
+    "solution": {
+      "preTitle": "Existe una Mejor Manera...",
+      "title": "Software Personalizado bajo Modelo de",
+      "titleHighlight": "Suscripción",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Desarrollamos",
+          "description": "tu software 100% personalizado"
+        },
+        {
+          "number": "2",
+          "title": "Pagas Suscripción", 
+          "description": "en lugar de gran inversión inicial"
+        },
+        {
+          "number": "3",
+          "title": "Incluimos Todo",
+          "description": "mantenimiento, soporte y actualizaciones"
+        },
+        {
+          "number": "4",
+          "title": "Evoluciona Contigo",
+          "description": "constantemente con tu negocio"
+        }
+      ],
+      "cta": "Ver Demo del Proceso"
+    }
+  },
+  "valueProposition": {
+    "title": "Por Qué Elegir Nuestro Modelo Híbrido",
+    "subtitle": "Comparamos nuestro enfoque innovador con las alternativas tradicionales",
+    "table": {
+      "headers": {
+        "aspect": "Aspecto",
+        "traditional": "SaaS Tradicional",
+        "custom": "Desarrollo a Medida",
+        "ourModel": "Nuestro Modelo"
+      },
+      "rows": [
+        {
+          "aspect": "Personalización",
+          "traditional": "Limitada",
+          "custom": "Total",
+          "ourModel": "Total"
+        },
+        {
+          "aspect": "Inversión Inicial",
+          "traditional": "Baja",
+          "custom": "Muy Alta",
+          "ourModel": "Baja"
+        },
+        {
+          "aspect": "Costos Predecibles",
+          "traditional": "Sí",
+          "custom": "No",
+          "ourModel": "Sí"
+        },
+        {
+          "aspect": "Riesgo Técnico",
+          "traditional": "Proveedor",
+          "custom": "Cliente",
+          "ourModel": "Proveedor"
+        },
+        {
+          "aspect": "Evolución Continua",
+          "traditional": "Limitada",
+          "custom": "Costosa",
+          "ourModel": "Incluida"
+        },
+        {
+          "aspect": "Soporte Garantizado",
+          "traditional": "Básico",
+          "custom": "Separado",
+          "ourModel": "Premium"
+        }
+      ]
+    },
+    "cards": [
+      {
+        "title": "Innovación Continua",
+        "description": "Tu software se mantiene actualizado con las últimas tecnologías y mejores prácticas, sin costos adicionales."
+      },
+      {
+        "title": "Tranquilidad Total",
+        "description": "Nosotros asumimos toda la responsabilidad técnica. Si algo falla, lo arreglamos sin costo extra."
+      },
+      {
+        "title": "Escalabilidad Garantizada",
+        "description": "Tu software crece contigo. Añadimos funcionalidades según evolucionen tus necesidades."
+      },
+      {
+        "title": "ROI Comprobado",
+        "description": "Nuestros clientes ven retorno de inversión en promedio 40% más rápido que con desarrollo tradicional."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Cómo Funciona Nuestro Proceso en 4 Pasos Simples",
+    "subtitle": "De la idea al software funcionando y aportando valor cada día",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Diagnóstico Gratuito",
+        "subtitle": "Entendemos Tu Negocio",
+        "features": [
+          "Análisis detallado de tus procesos actuales",
+          "Identificación de oportunidades de optimización",
+          "Definición de requisitos específicos",
+          "Propuesta técnica y financiera personalizada"
+        ],
+        "duration": "Duración: 1-2 semanas"
+      },
+      {
+        "number": 2,
+        "title": "Desarrollo Ágil con IA",
+        "subtitle": "Creamos Tu Solución",
+        "features": [
+          "Desarrollo 100% adaptado a tus necesidades",
+          "Arquitectura segura, escalable y moderna",
+          "Pruebas exhaustivas y validación",
+          "Capacitación de tu equipo"
+        ],
+        "duration": "Duración: 1-3 meses",
+        "note": "(según complejidad)"
+      },
+      {
+        "number": 3,
+        "title": "Lanzamiento Rápido",
+        "subtitle": "Ponemos Todo en Marcha",
+        "features": [
+          "Migración de datos existentes",
+          "Configuración de infraestructura",
+          "Despliegue en producción",
+          "Soporte intensivo durante transición"
+        ],
+        "duration": "Duración: 1-2 semanas"
+      },
+      {
+        "number": 4,
+        "title": "Evolución Continua",
+        "subtitle": "Nunca Deja de Mejorar",
+        "features": [
+          "Monitoreo proactivo 24/7",
+          "Actualizaciones regulares de seguridad",
+          "Nuevas funcionalidades según necesidades",
+          "Soporte técnico premium incluido"
+        ],
+        "duration": "Duración: Continua",
+        "note": "durante la suscripción"
+      }
+    ],
+    "cta": {
+      "button": "Ver Demo del Proceso",
+      "subtitle": "Agenda una llamada de 30 minutos para ver cómo funciona nuestro modelo"
+    }
+  },
+  "caseStudies": {
+    "title": "Empresas Que Ya Transformaron Sus Operaciones",
+    "subtitle": "Descubre cómo nuestros clientes han optimizado sus procesos y aumentado su rentabilidad",
+    "cases": [
+      {
+        "icon": "🏥",
+        "company": "Clínica San Rafael",
+        "result": "60% Menos Tiempo en Gestión",
+        "quote": "Necesitábamos un sistema que se adaptara exactamente a nuestros protocolos médicos específicos. Con el modelo de suscripción, pudimos acceder a software de nivel hospitalario sin la inversión inicial de $200K+.",
+        "author": "Dr. María González",
+        "position": "Directora Médica",
+        "metrics": [
+          "60% reducción tiempo",
+          "40% mejora satisfacción",
+          "ROI 180% primer año",
+          "100% cumplimiento"
+        ]
+      },
+      {
+        "icon": "🚛",
+        "company": "LogiTrans",
+        "result": "Optimización de Rutas Personalizada",
+        "quote": "Los software de logística estándar no entendían nuestras restricciones específicas de transporte especial. Ahora tenemos una solución que se adapta perfectamente a nuestros procesos únicos.",
+        "author": "Carlos Mendoza",
+        "position": "Director de Operaciones",
+        "metrics": [
+          "35% menos combustible",
+          "50% mejor puntualidad",
+          "25% más capacidad",
+          "Integración perfecta"
+        ]
+      },
+      {
+        "icon": "⚖️",
+        "company": "Jurídico & Asociados",
+        "result": "Gestión de Casos Especializada",
+        "quote": "Cada área del derecho tiene sus particularidades. Necesitábamos software que entendiera nuestros flujos específicos de trabajo en derecho corporativo.",
+        "author": "Lic. Ana Rodríguez",
+        "position": "Socia Fundadora",
+        "metrics": [
+          "45% menos tiempo prep",
+          "30% más facturación",
+          "100% cumplimiento",
+          "Mejor colaboración"
+        ]
+      }
+    ],
+    "stats": {
+      "title": "Números que Hablan por Sí Solos",
+      "metrics": [
+        {
+          "value": "15+",
+          "label": "Empresas transformadas"
+        },
+        {
+          "value": "95%",
+          "label": "Retención de clientes"
+        },
+        {
+          "value": "$250K+",
+          "label": "Ahorrados por clientes"
+        },
+        {
+          "value": "99.9%",
+          "label": "Uptime promedio"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "El modelo de suscripción nos permitió acceder a tecnología de primer nivel sin comprometer nuestro flujo de caja.",
+          "author": "CEO, Empresa Manufacturera"
+        },
+        {
+          "quote": "Lo mejor es que el software evoluciona con nosotros. Cada trimestre vemos mejoras que realmente impactan nuestro negocio.",
+          "author": "CTO, Empresa de Servicios Financieros"
+        }
+      ]
+    },
+    "cta": "Ver Más Casos de Éxito"
+  },
+  "whyKyndra": {
+    "title": "Por Qué Elegir Kyndra",
+    "subtitle": "La combinación perfecta de tecnología avanzada y servicio personalizado",
+    "reasons": [
+      {
+        "icon": "🎯",
+        "title": "Personalización Total",
+        "description": "Cada línea de código pensada específicamente para tus procesos únicos."
+      },
+      {
+        "icon": "🤖",
+        "title": "IA Incorporada",
+        "description": "Automatización inteligente y predicciones desde el primer día."
+      },
+      {
+        "icon": "🔒",
+        "title": "Modelo Sin Riesgo",
+        "description": "Nosotros asumimos el riesgo técnico. Si algo falla, lo arreglamos."
+      },
+      {
+        "icon": "⚡",
+        "title": "Soporte Premium 24/7",
+        "description": "Equipo técnico dedicado disponible cuando lo necesites."
+      }
+    ],
+    "stats": [
+      {
+        "value": "30%",
+        "label": "ahorro en costos operativos",
+        "color": "primary"
+      },
+      {
+        "value": "70%",
+        "label": "menos errores humanos",
+        "color": "success"
+      },
+      {
+        "value": "4",
+        "label": "semanas para nuevas funciones",
+        "color": "accent"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Inversión Transparente y Predecible",
+    "subtitle": "Modelo híbrido que elimina las barreras financieras del desarrollo personalizado",
+    "hybrid": {
+      "title": "💰 Modelo Híbrido: Pago Inicial + Suscripción",
+      "initialPayment": {
+        "title": "Pago Inicial",
+        "subtitle": "30-40% del Costo Total de Desarrollo",
+        "features": [
+          "Financia el desarrollo inicial personalizado",
+          "Reduce significativamente la barrera de entrada",
+          "Se amortiza en los primeros 12-18 meses"
+        ],
+        "example": "Ejemplo: Para proyecto de $50K, pago inicial de $15K"
+      },
+      "subscription": {
+        "title": "Suscripción Mensual",
+        "subtitle": "Incluye Todo lo Que Necesitas",
+        "features": [
+          "Hosting y infraestructura premium",
+          "Mantenimiento correctivo (corrección de errores)",
+          "Actualizaciones de seguridad automáticas",
+          "Soporte técnico prioritario",
+          "Mejoras y nuevas funcionalidades trimestrales",
+          "Copias de seguridad diarias automatizadas",
+          "Monitoreo 24/7 proactivo"
+        ]
+      }
+    },
+    "tiers": [
+      {
+        "name": "Proyectos Básicos",
+        "description": "Ideal para empresas 20-100 empleados",
+        "icon": "Users",
+        "initialCost": "$15K - $30K",
+        "monthlyCost": "$2K - $4K",
+        "popular": false
+      },
+      {
+        "name": "Proyectos Intermedios",
+        "description": "Ideal para empresas 100-300 empleados",
+        "icon": "TrendingUp",
+        "initialCost": "$30K - $80K",
+        "monthlyCost": "$4K - $8K",
+        "popular": true,
+        "badge": "Más Popular"
+      },
+      {
+        "name": "Proyectos Avanzados",
+        "description": "Ideal para empresas 300+ empleados",
+        "icon": "Shield",
+        "initialCost": "$80K - $200K",
+        "monthlyCost": "$8K - $15K",
+        "popular": false
+      }
+    ],
+    "comparison": {
+      "traditional": {
+        "title": "vs. Desarrollo Tradicional",
+        "points": [
+          "Ahorro inicial: 60-70% menos inversión inicial",
+          "Costo total 3 años: Similar, pero con valor añadido continuo",
+          "Riesgo: Transferido al proveedor"
+        ]
+      },
+      "saas": {
+        "title": "vs. SaaS Tradicional",
+        "points": [
+          "Personalización: 100% vs. limitada",
+          "Costo mensual: 2-3x más, pero valor 5-10x mayor",
+          "Adaptación: Software se adapta a ti, no al revés"
+        ]
+      }
+    },
+    "guarantees": {
+      "title": "Garantías Incluidas",
+      "items": [
+        {
+          "icon": "Shield",
+          "title": "Garantía de Satisfacción",
+          "description": "90 días para evaluar completamente"
+        },
+        {
+          "icon": "Clock",
+          "title": "Garantía de Disponibilidad",
+          "description": "99.9% uptime o créditos automáticos"
+        },
+        {
+          "icon": "Users",
+          "title": "Garantía de Soporte",
+          "description": "Respuesta <4h en horario laboral"
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Garantía de Evolución",
+          "description": "Mínimo 2 mejoras significativas por año"
+        }
+      ]
+    },
+    "cta": {
+      "button": "Solicitar Cotización Personalizada",
+      "subtitle": "Cada proyecto es único. Obtén una propuesta específica para tus necesidades en 48 horas.",
+      "tierButton": "Solicitar Cotización"
+    },
+    "labels": {
+      "initialPayment": "Pago inicial",
+      "monthlyPayment": "Por mes"
+    }
+  },
+  "faq": {
+    "title": "Resolvemos Tus Dudas Más Comunes",
+    "subtitle": "Todo lo que necesitas saber sobre nuestro modelo de software personalizado por suscripción",
+    "questions": [
+      {
+        "question": "¿Qué pasa si quiero cancelar la suscripción?",
+        "answer": "Entendemos que las necesidades cambian. Ofrecemos contratos con períodos mínimos de 12-24 meses para garantizar que recuperes tu inversión inicial. Después de este período, puedes cancelar con 60 días de aviso. También ofrecemos opciones de transferencia de código fuente."
+      },
+      {
+        "question": "¿Quién es el propietario del software desarrollado?",
+        "answer": "Utilizamos un modelo de propiedad compartida. Tú tienes derechos exclusivos sobre tu implementación específica y datos, mientras nosotros mantenemos derechos sobre la arquitectura base y componentes reutilizables. Esto nos permite ofrecerte un mejor precio y evolución continua."
+      },
+      {
+        "question": "¿Cómo garantizan que el software evolucionará según mis necesidades?",
+        "answer": "Incluimos en cada suscripción un mínimo de 2 mejoras significativas por año, basadas en tu feedback y análisis de uso. Además, tienes acceso directo a nuestro equipo de producto para solicitar funcionalidades específicas."
+      },
+      {
+        "question": "¿Cuánto tiempo toma desarrollar el software inicial?",
+        "answer": "Depende de la complejidad, pero típicamente entre 2-4 meses. Proyectos simples pueden estar listos en 6-8 semanas, mientras que sistemas complejos pueden tomar hasta 6 meses. Te damos un cronograma detallado después del análisis inicial."
+      },
+      {
+        "question": "¿Qué tecnologías utilizan?",
+        "answer": "Seleccionamos las tecnologías más adecuadas para cada proyecto, priorizando estabilidad, escalabilidad y facilidad de mantenimiento. Típicamente usamos tecnologías modernas como React, Node.js, Python, PostgreSQL, AWS/Azure, pero siempre adaptamos la stack a tus necesidades específicas."
+      },
+      {
+        "question": "¿Pueden integrar con nuestros sistemas existentes?",
+        "answer": "Absolutamente. La integración con sistemas existentes es una de nuestras especialidades. Trabajamos con APIs, bases de datos legacy, sistemas ERP, CRM y cualquier herramienta que ya uses. Parte del análisis inicial incluye mapear todas las integraciones necesarias."
+      },
+      {
+        "question": "¿Qué nivel de soporte incluye la suscripción?",
+        "answer": "Incluye soporte técnico prioritario en horario laboral (9-18h), con respuesta garantizada en menos de 4 horas. Para emergencias críticas, ofrecemos soporte 24/7. También incluye actualizaciones automáticas, copias de seguridad y monitoreo proactivo."
+      },
+      {
+        "question": "¿Qué pasa si necesito cambios urgentes?",
+        "answer": "Para cambios menores y correcciones, los incluimos sin costo adicional. Para nuevas funcionalidades o cambios mayores, evaluamos si pueden incluirse en las mejoras programadas o si requieren desarrollo adicional. Siempre priorizamos las necesidades críticas del negocio."
+      },
+      {
+        "question": "¿Cómo garantizan la seguridad de nuestros datos?",
+        "answer": "Implementamos las mejores prácticas de seguridad: cifrado en tránsito y reposo, autenticación multifactor, auditorías regulares, copias de seguridad automáticas y cumplimiento de estándares como ISO 27001. Podemos adaptarnos a requisitos específicos de tu sector."
+      }
+    ],
+    "cta": {
+      "button": "¿Tienes Otras Preguntas? Hablemos",
+      "subtitle": "Agenda una llamada de 15 minutos para resolver cualquier duda específica sobre tu proyecto"
+    }
+  },
+  "cta": {
+    "title": "No esperes a que tu competencia te saque ventaja",
+    "subtitle": "Empieza hoy con un software que crece contigo, mes a mes.",
+    "offer": {
+      "badge": "OFERTA LIMITADA",
+      "title": "Análisis Gratuito de Procesos",
+      "description": "Valorado en $5,000 - Completamente gratis para las primeras 10 empresas que soliciten consulta este mes.",
+      "includes": "Lo que incluye:",
+      "features": [
+        "Análisis completo de procesos actuales",
+        "Identificación de oportunidades",
+        "Propuesta técnica personalizada",
+        "Estimación de ROI específica",
+        "Roadmap de implementación"
+      ],
+      "urgency": "Solo quedan 3 espacios disponibles este mes"
+    },
+    "primaryButton": "🚀 Empieza ahora con tu diagnóstico gratuito",
+    "guarantee": "Sin compromiso. Si después del análisis decides que no es para ti, no hay ningún costo ni obligación.",
+    "contact": {
+      "title": "¿Prefieres contacto directo?",
+      "phone": "Llamada directa:",
+      "phoneNumber": "+57 (318) 817-0876",
+      "email": "Email:",
+      "emailAddress": "hola@kyndra.com",
+      "chat": "Chat en vivo:",
+      "chatAvailability": "Disponible 9-18h"
+    }
+  },
+  "footer": {
+    "description": "Software personalizado que evoluciona contigo",
+    "office": {
+      "title": "📍 Oficina Principal",
+      "address": "Kr 55 #153-15, Piso 9\nBogotá, Colombia 111156"
+    },
+    "phones": {
+      "colombia": "+57 (318) 817-0876",
+      "venezuela": "+58 (422) 175-1215"
+    },
+    "email": "contacto@kyndra.com",
+    "sections": {
+      "company": {
+        "title": "Empresa",
+        "links": [
+          "Sobre Nosotros",
+          "Equipo",
+          "Carreras",
+          "Socios"
+        ]
+      },
+      "services": {
+        "title": "Servicios",
+        "links": [
+          "Desarrollo Personalizado",
+          "Consultoría",
+          "Soporte Técnico",
+          "Integración de Sistemas"
+        ]
+      },
+      "resources": {
+        "title": "Recursos",
+        "links": [
+          "Blog",
+          "Casos de Estudio",
+          "Whitepapers",
+          "Webinars"
+        ]
+      }
+    },
+    "legal": {
+      "privacy": "Privacidad",
+      "terms": "Términos",
+      "cookies": "Cookies"
+    },
+    "socialMedia": {
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter", 
+      "youtube": "YouTube",
+      "github": "GitHub"
+    },
+    "certifications": {
+      "iso": "ISO 27001",
+      "aws": "AWS Partner"
+    },
+    "copyright": "© 2025 Kyndra. Todos los derechos reservados."
+  },
+  "whatsapp": {
+    "message": "¡Hola! Me interesa conocer más sobre sus servicios de desarrollo de software personalizado.",
+    "tooltip": "Chatea con nosotros"
+  },
+  "successBanner": {
+    "title": "¡Excelente! Tu solicitud fue enviada exitosamente",
+    "subtitle": "Hemos recibido tu información y nuestro equipo la está revisando",
+    "offer": {
+      "title": "Tu análisis gratuito valorado en $5,000 USD",
+      "description": "Nuestro equipo de expertos está preparando una evaluación personalizada de tu situación actual y las oportunidades de ahorro específicas para tu empresa."
+    },
+    "nextSteps": {
+      "title": "Próximos pasos:",
+      "step1": {
+        "time": "Hoy:",
+        "description": "Revisión inicial de tu información"
+      },
+      "step2": {
+        "time": "24-48 horas:",
+        "description": "Te contactaremos para agendar una reunión"
+      },
+      "step3": {
+        "time": "1 semana:",
+        "description": "Presentación de tu propuesta personalizada"
+      }
+    },
+    "expectations": {
+      "title": "¿Qué puedes esperar?",
+      "item1": "Análisis detallado de costos vs. ahorros",
+      "item2": "Propuesta de software 100% personalizado",
+      "item3": "Modelo de suscripción sin inversión inicial",
+      "item4": "Roadmap de implementación específico"
+    },
+    "urgency": {
+      "reminder": "Recuerda:",
+      "message": "Solo quedan 3 cupos disponibles para este mes"
+    },
+    "contact": {
+      "question": "¿Tienes alguna pregunta urgente?",
+      "message": "Contáctanos directamente por WhatsApp mientras preparamos tu propuesta"
+    }
+  },
+  "pages": {
+    "notFound": {
+      "title": "Página no encontrada",
+      "description": "La página que estás buscando no existe.",
+      "button": "Volver al inicio"
+    },
+    "privacy": {
+      "title": "Política de Privacidad",
+      "lastUpdated": "Última actualización: "
+    },
+    "terms": {
+      "title": "Términos de Servicio", 
+      "lastUpdated": "Última actualización: "
+    },
+    "cookies": {
+      "title": "Política de Cookies",
+      "lastUpdated": "Última actualización: "
+    }
+  }
+}
